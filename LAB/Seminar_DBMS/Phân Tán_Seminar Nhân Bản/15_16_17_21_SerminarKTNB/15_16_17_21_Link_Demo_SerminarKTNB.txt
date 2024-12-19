@@ -1,0 +1,5 @@
+Demo 2 kỹ thuật: Snapshot và Transactional
+Riêng kĩ thuật Merge mất khá nhiều thời gian để nhân bản nên nhóm không ghi lại được, sẽ demo trên lớp trực tiếp sau.
+
+Link Youtube: https://www.youtube.com/watch?v=YH95sKG7lug
+Link Google Drive: https://drive.google.com/file/d/1GkXoirpeUsNaIRBq2TPZGdQBJZIQFcga/view?usp=sharing
